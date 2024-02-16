@@ -6,7 +6,7 @@ Para mais informações, entre em contato pelo email [cauadias9730@gmail.com].
 
 # Sistema web de um virus que desenvolvi
 
-### [50%] Pronto
+### [51%] Pronto
 
 ## Colaboradores do Projeto
 
